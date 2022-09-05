@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Samir Idrishi
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning Javascript react.js node.js 
+- 🌱 I’m currently learning Javascript, react.js, node.js 
 - 📫 How to reach me ... you can email me at mohdsamir413@gmail.com
 
 <!---
